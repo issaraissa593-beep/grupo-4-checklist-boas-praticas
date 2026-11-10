@@ -28,14 +28,14 @@ O diagrama apresenta as possíveis causas do problema identificado na cooperativ
 
 ## 3. Análise SWOT
 
-| FORÇAS (Strengths) | FRAQUEZAS (Weaknesses) |
+| FORÇAS | FRAQUEZAS |
 |---|---|
 | A cooperativa já possui um checklist com 35 requisitos. | Utilização de formulários em papel. |
 | Os requisitos estão divididos em quatro pilares. | Demora na transferência dos dados para planilhas. |
 | A cooperativa já possui critérios definidos para pontuação e classificação dos produtores. | Risco de perda de documentos. |
 | Os técnicos conhecem o processo de avaliação. | Dificuldade para consultar o histórico. |
 
-| OPORTUNIDADES (Opportunities) | AMEAÇAS (Threats) |
+| OPORTUNIDADES  | AMEAÇAS |
 |---|---|
 | Digitalizar o processo de avaliação. | Falta de internet em algumas propriedades. |
 | Automatizar cálculos e classificações. | Resistência dos usuários à mudança. |
