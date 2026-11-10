@@ -22,7 +22,7 @@ Diante disso, o grupo propõe um sistema digital de checklist que permita regist
 
 O diagrama apresenta as possíveis causas do problema identificado na cooperativa.
 
-![Diagrama de Ishikawa](diagramas/Ishikawa.png)
+![Diagrama de Ishikawa](Ishikawa.png)
 
 **Observação:** as causas apresentadas são hipóteses iniciais do grupo e precisam ser validadas com a cooperativa.
 
